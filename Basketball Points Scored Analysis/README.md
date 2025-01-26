@@ -1,1 +1,1 @@
-Basketball analysis
+ The objective of this analysis was to leverage machine learning techniques to uncover and quantify the intricate relationships between points per game, arguably the most important offensive statistic in basketball, and a variety of other metrics that reflect individual player success. By identifying these relationships, I aim to provide deeper insights into what drives scoring efficiency and how players contribute to their teams' offensive outcomes.
