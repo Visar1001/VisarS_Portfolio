@@ -1,1 +1,1 @@
-Income Statistical Analysis Paper and Code. Please feel free to read through the paper and take a look at the code that went behind optimizing certain machine learning algorithms and descriptive charts!
+Income Statistical Analysis Paper and Code. Please feel free to read through the paper and take a look at the code that went behind optimizing certain machine learning algorithms and creating descriptive charts!
